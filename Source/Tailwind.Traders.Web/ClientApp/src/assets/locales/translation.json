@@ -2,7 +2,7 @@
     "en": {
       "translation": {
         "home.hero.shiping": "Free Shipping",
-        "home.hero.orders": "For $100 or more orders",
+        "home.hero.orders": "For $350 or more orders",
 
         "home.recommended.recommended": "Recommended",
         "home.recommended.uploadPhotoTitle": "By uploading a photo",
@@ -16,7 +16,7 @@
         "home.getapp.googlePlayImg": "Download Tailwind Traders for Android",
 
         "mycoupons.title": "My coupons",
-        "mycoupons.subtitle": "Personalized coupons for you based on your purchase history and interest",
+        "mycoupons.subtitle": "Personalised coupons for you based on your purchase history and interest",
         "mycoupons.big.noCoupons": "This user does not have available big coupons",
         "mycoupons.small.noCoupons": "This user does not have available small coupons",
         "mycoupons.smallcoupons.until": "Until",
@@ -43,7 +43,7 @@
         "shared.header.or": "or",
         "shared.header.login": "Login",
         "shared.header.email": "Email",
-        "shared.header.emailPlaceholder": "admin@tailwindtraders.com",
+        "shared.header.emailPlaceholder": "simon.waight@microsoft.com",
         "shared.header.password": "Password",
         "shared.header.passwordPlaceholder": "••••••••",
 
